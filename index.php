@@ -115,7 +115,7 @@
             <? } ?>
 
             <? if ($pt_wordpress) { ?>
-            <li><a href="<?php echo $pt_wordpress; ?>" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/profiles/wordpress.png" /><strong>Wordpress</strong>wordpress.com</a></li>
+            <li><a href="<?php echo $pt_wordpress; ?>" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/icons/wordpress.png" /></a></li>
             <? } else { ?>
             <? } ?>
 

@@ -19,7 +19,7 @@ body { background:#aaa; font:18px 'Droid Sans', Helvetica, Arial, sans-serif; co
 #top { width:800px; height:25px; margin:5px auto 0 auto; padding-top: 0px; background:none;  }
 /* #page_container {width: 800px; margin: 0px 0px 0px 0px;} */
 #page_container {position: fixed; left: 0; bottom: 0;}
-#page { width:480px; display:table;
+#page { width:500px; display:table;
 	/* Fallback for web browsers that doesn't support RGBa */
 	/*background: rgb(100, 100, 100);*/
 	background: rgb(39, 66, 87);
@@ -46,7 +46,7 @@ a strong { display: block; font:14px 'Droid Serif', Georgia, Times, serif; color
 #content { padding: 0 10px; background: none;   }
 #content ul { display:block; margin:0; padding:0; list-style:none;     }
 /*#content li { float: left; width:154px; margin-left:0px;   }*/
-#content li { float: left; width:65px; margin-left:0px;   }
+#content li { float: left; width:60px; margin-left:0px;   }
 #content a { font-size: 11px; color: #fff; text-decoration: none; padding: 10px 0 5px;  display:block;  width:65px;  height:40px;  position:relative;  z-index:2; cursor:pointer; }
 #content li a img { border: 0;  float: left;  margin: 0 10px; }
 #content p {line-height: 30px;}
